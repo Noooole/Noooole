@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noooole
+- 👋 Hi, I’m @MozzaStick
 - 👀 I’m interested in pesto
 - 🌱 I’m currently learning statstics
 - 💞️ I’m looking to collaborate on :)
